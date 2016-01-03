@@ -126,7 +126,7 @@
 	{if $display_poweredby}
 	<section class="bottom-footer col-xs-12">
 		<div>
-			{l s='[1] %3$s %2$s - Beautify [/1]' mod='blockcms' sprintf=['PrestaShop™', 'Y'|date, '©'] nocache}
+			{l s='[1] %3$s %2$s - Beautify [/1]' mod='blockcms' sprintf=['Y'|date, '©'] nocache}
 		</div>
 	</section>
 	{/if}
