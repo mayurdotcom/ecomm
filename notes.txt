@@ -1,5 +1,4 @@
-Replace ico-
-beautify/img/
-
+Replace ico under -> beautify/img/
 Remove powered * text (modules -> CMS block)
+Remove opt in for partners from sign up form (Preferences -> Customers -> Enable opt-in -> False)
 
