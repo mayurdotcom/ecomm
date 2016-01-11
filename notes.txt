@@ -1,0 +1,5 @@
+Replace ico-
+beautify/img/
+
+Remove powered * text (modules -> CMS block)
+
